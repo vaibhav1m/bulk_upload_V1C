@@ -1,0 +1,1 @@
+exports.FLASK_GMAIL_API = "https://flask-gmail-api-c672e9bdbb55.herokuapp.com/";
